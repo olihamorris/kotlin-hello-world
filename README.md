@@ -6,7 +6,7 @@ The software is a small Hello World program written in Kotlin. When it runs, it 
 
 My purpose in writing it is to check that Kotlin, IntelliJ IDEA and Git work together on my computer, and to learn the basic structure of a Kotlin program: the main function, a variable, and how output is printed.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://youtu.be/HfypxWXm3s0
 
 # Development Environment
 
